@@ -28,7 +28,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "big.js": "^5.2.2",
-    "buffer": "^5.6.0"
+    "buffer": "^6.0.3"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^0.1.3",
